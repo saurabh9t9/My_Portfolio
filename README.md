@@ -8,12 +8,7 @@ The portfolio highlights my work in **Machine Learning, Deep Learning, Data Anal
 
 # 🌐 Live Preview
 
-*(Add your deployed website link here)*
-
-Example
-
-```
-https://your-portfolio-link.com
+ https://saurabh9t9.github.io/My_Portfolio/
 ```
 
 ---
